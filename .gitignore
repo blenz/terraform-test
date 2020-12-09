@@ -21,3 +21,8 @@ yarn-debug.log*
 yarn-error.log*
 
 .eslintcache
+
+# terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
